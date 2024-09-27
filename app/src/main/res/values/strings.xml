@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notemaster</string>
+    <string name="default_web_client_id">922316862518-3krvqr3ehakmq0ljcv3953r05ots04n1.apps.googleusercontent.com</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="unsplash_access_key">7YrjtfW8O2mmeyM2pt37ZQOcUNxJGk2NlyZIkbYTzJw</string>
+
+</resources>

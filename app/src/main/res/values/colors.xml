@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary and Secondary Colors -->
+    <color name="primaryColor">#6200EE</color>
+    <color name="primaryColorDark">#3700B3</color>
+    <color name="primaryColorLight">#BB86FC</color>
+
+    <color name="secondaryColor">#03DAC6</color>
+    <color name="secondaryColorDark">#018786</color>
+    <color name="secondaryColorLight">#A7FFEB</color>
+
+    <color name="White">#FFFFFF</color>
+
+    <color name="backgroundLight">#FFFFFF</color>
+    <color name="backgroundDark">#121212</color>
+
+    <!-- Surface Color (Material Design) -->
+    <color name="surfaceLight">#F5F5F5</color>
+    <color name="surfaceDark">#1E1E1E</color>
+
+    <!-- Error Colors -->
+    <color name="errorColor">#B00020</color>
+    <color name="errorColorLight">#CF6679</color>
+
+    <!-- Text Colors -->
+    <color name="textOnPrimary">#FFFFFFFF</color> <!-- White -->
+    <color name="textOnSecondary">#FF000000</color> <!-- Black for secondary color text -->
+
+    <!-- Button Colors -->
+    <color name="buttonBackground">#6200EE</color>
+    <color name="buttonTextColor">#FFFFFF</color>
+
+
+    <!-- Icon Colors -->
+    <color name="iconColorLight">#FF000000</color> <!-- Black -->
+    <color name="iconColorDark">#FFFFFFFF</color> <!-- White -->
+
+    <!-- Custom Colors -->
+    <color name="disabledColor">#D1D1D1</color> <!-- Light gray for disabled buttons or icons -->
+    <color name="primaryVariantColor">#3700B3</color>
+    <color name="accentColor">#03DAC6</color>
+    <color name="backgroundColor">#FAFAFA</color>
+    <color name="surfaceColor">#FFFFFF</color>
+    <color name="textPrimary">#202124</color>
+    <color name="textSecondary">#5F6368</color>
+    <color name="dividerColor">#E0E0E0</color>
+</resources>
