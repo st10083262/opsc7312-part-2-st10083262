@@ -1,4 +1,4 @@
-# OPSC
+# OPSC7312
 ## Requirements
 - Android Studio
 - Gradle
