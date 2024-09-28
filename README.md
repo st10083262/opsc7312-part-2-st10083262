@@ -4,6 +4,9 @@
 - Gradle
 - Android SDK 34
 
+# Screenshot of App Running
+![Login](screenshot.jpg)
+
 ## Introduction
 
 Welcome to the NoteMaster app walkthrough! In this app, managing your notes is simple and intuitive. From the Home screen, you can easily view all your notes in a clean and organized list. If you want to add a new note, just tap the 'New Note' button, which takes you to a screen where you can enter your note title and content. You can also edit or delete any existing notes by selecting them from the list—an edit button lets you make changes, while a delete button prompts a confirmation to ensure you don’t lose important information by accident. One of the standout features is the Unsplash Image Search, allowing you to add a visual touch to your notes. Simply type a keyword in the search bar, and you’ll be presented with beautiful, high-quality images from Unsplash, which you can easily add to your notes to create mood boards or visual journals.
